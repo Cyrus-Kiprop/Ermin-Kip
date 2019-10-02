@@ -32,3 +32,4 @@ body {
     font-size: 25px;
     margin: 1em 0 2em;
 }
+#tribute-info{     text-align: center;     display: inline-block;     margin: 0 30%;     font-size: 30px;    line-height: 1.6em;     font-family: 'Source Sans Pro', sans-serif; } figcaption{     margin-top: 1.6em;     margin-bottom: 1.6em;     display: block;     line-height: 1em; } figcaption p{     font-family: 'Mansalva', cursive;     font-size:28px; } figcaption div{     font-size:20px; } #tribute-link{     text-align: center;     line-height: 1.6em;     font-size: 30px;     margin-bottom:
